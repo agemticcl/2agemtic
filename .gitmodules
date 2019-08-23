@@ -7,3 +7,8 @@
 	path = OCA/reporting-engine
 	url = git@github.com:OCA/reporting-engine.git
 	branch = 12.0
+
+[submodule "intellego-bi/odoo-12"]
+	path = intellego-bi/odoo-12
+	url = git@github.com:intellego-bi/odoo-12.git
+	branch = master
